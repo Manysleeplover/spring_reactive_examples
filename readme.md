@@ -1,0 +1,1 @@
+http://rxmarbles.com - ресурс с операторами в RxJava
